@@ -95,7 +95,7 @@ We welcome maestros and apprentices alike! If you have a flair for data or a sug
 
 ## 📬 Maestro's Contact
 
-For inquiries, ovations, or encores,mailto:mgakshith@gmail.com.
+If you have any questions, ovations, or encores, please mail to: mgakshith@gmail.com.
 
 ## 👏 Encore
 
