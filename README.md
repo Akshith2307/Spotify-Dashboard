@@ -39,7 +39,7 @@ Our visualizations are the staves on which the notes of data play to reveal patt
 ![Spotify Dashboard Overview]
 *The command center of streaming insights. This dashboard offers a bird's-eye view of the Spotify universe, from top artists to song stats.*
 
-![Artists' Songs Audio Features](Artists-Songs-Audio-Features.png)
+![Artists' Songs Audio Features]
 *Peek into the sonic lab where musical elements are mixed to perfection. This visualization breaks down danceability, energy, and more.*
 
 ![Artist's Chart Performance]
