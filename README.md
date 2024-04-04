@@ -30,44 +30,44 @@ Our visualizations are the staves on which the notes of data play to reveal patt
 
 ## 🎨 Gallery of Harmonies
 
-![Top Streamed Artists]
+`Top Streamed Artists`
 *The chart-toppers' parade, where streams convert to digital applause. See which artists have captivated the world's ears.*
 
-![Top Tracks Streamed]
+`Top Tracks Streamed`
 *The anthem assembly, tracking tunes that traverse through headphones around the world. Discover the songs that have become a global phenomenon.*
 
-![Spotify Dashboard Overview]
+`Spotify Dashboard Overview`
 *The command center of streaming insights. This dashboard offers a bird's-eye view of the Spotify universe, from top artists to song stats.*
 
-![Artists' Songs Audio Features]
+`Artists' Songs Audio Features`
 *Peek into the sonic lab where musical elements are mixed to perfection. This visualization breaks down danceability, energy, and more.*
 
-![Artist's Chart Performance]
+`Artist's Chart Performance`
 *The battleground of musical giants. Watch as artists climb up the charts in a quest for the crown of streams.*
 
-![Artist's Top Tracks]
+`Artist's Top Tracks`
 *A gallery of hits that have defined artists' careers on Spotify. Each bar is a testament to tracks that have left a lasting imprint on listeners.*
 
-![Artist's Popularity in Playlists]
+`Artist's Popularity in Playlists`
 *Popularity isn't just about streams; it's about presence. These bars measure the weight of artists' names across countless playlists.*
 
-![Song Stats Overview]
+`Song Stats Overview`
 *Numbers behind the notes. This detailed graph goes beyond the melody to illustrate the statistical story of each song.*
 
-![Spotify Dashboard Detailed]
+`Spotify Dashboard Detailed
 *Dive deep into the data deluge. This detailed dashboard is a data detective's dream, revealing the intricate relationships within streaming success.*
 
-![Detailed Artist Analysis]
+`Detailed Artist Analysis`
 *An orchestration of data depicting the diverse audio features of artists' tracks and their performance across different music charts and playlists. This dashboard is a confluence of melody and metrics, presenting a data-driven narrative of an artist's journey through the streaming landscape.*
 
 
-![Artist's Audio Signatures]
+`Artist's Audio Signatures`
 *The unique fingerprint of every hit. From tempo to tone, these charts capture the essence of what makes each artist's sound distinct.*
 
-![Playlist Power Players]
+`Playlist Power Players`
 *The strategic stalwarts of Spotify. See who's conquering the playlist domain, one inclusion at a time.*
 
-![The Crescendo of Streams]
+`The Crescendo of Stream`
 *The visual symphony of success. This graph sings the saga of Spotify's year in streams, striking chords of insight with every data point.*
 
 ## 🧠 Decoding the Rhythms
