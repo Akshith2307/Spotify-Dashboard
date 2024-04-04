@@ -57,8 +57,9 @@ Our visualizations are the staves on which the notes of data play to reveal patt
 ![Spotify Dashboard Detailed](Spotify-Dashboard-Detailed.png)
 *Dive deep into the data deluge. This detailed dashboard is a data detective's dream, revealing the intricate relationships within streaming success.*
 
-![Emotional Rhythm and Blues](Emotional-Rhythm-and-Blues.png)
-*Feel the vibe of the tunes. An emotional map charting the energy, valence, and danceability of music that moves us.*
+![Detailed Artist Analysis](Detailed-Artist-Analysis.png)
+*An orchestration of data depicting the diverse audio features of artists' tracks and their performance across different music charts and playlists. This dashboard is a confluence of melody and metrics, presenting a data-driven narrative of an artist's journey through the streaming landscape.*
+
 
 ![Artist's Audio Signatures](Artists-Audio-Signatures.png)
 *The unique fingerprint of every hit. From tempo to tone, these charts capture the essence of what makes each artist's sound distinct.*
